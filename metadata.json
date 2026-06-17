@@ -1,0 +1,6 @@
+{
+  "name": "Spanish-Armenian Interactive Dialogues",
+  "description": "An interactive Spanish-Armenian learning guide with interactive dialogue translation clickers and two local two-player practice games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
